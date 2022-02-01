@@ -15,6 +15,9 @@ body{
     flex-grow: 1;
 }
 
+a{
+    color: #888888;
+}
 footer{
     color:#888888;
     border-top: 1px solid #eeeeee;
